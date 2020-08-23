@@ -9,7 +9,7 @@
 
 ##### This project aims at helping kickstarting a new react redux project which uses redux thunk as middleware.
 
-* Step 1: `clone this repository`
+* Step 1: `clone this repository` 
 * Step 2: navigate inside the project folder `cd PriceCompare`
 * Step 3: do `npm install` or `yarn install`
 
