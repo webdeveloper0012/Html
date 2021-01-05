@@ -4,7 +4,7 @@
   "author": "Bhupinder Singh: @dynamicsingh",
   "repository": "dynamicsingh/create-react-redux-thunk-app",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "crypto-js": "^3.2.0",
     "node-sass": "^4.11.0",
     "react": "^16.7.0",
